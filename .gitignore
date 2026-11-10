@@ -1,0 +1,6 @@
+*.tgz
+.env
+coverage/
+build/
+.env.local
+.DS_Store
